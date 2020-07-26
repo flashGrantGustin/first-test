@@ -1,2 +1,4 @@
 # first-test
-Just for test how to use github
+
+Hi everyone,it is time for me to get in github family.
+For this project,I just want to learn how to use github.
